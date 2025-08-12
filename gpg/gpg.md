@@ -1,4 +1,3 @@
-<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGZ6zukBEADMNkaScw/eYcp3KhTl9uDdFjd6MCpfuYUZSS+Ek5el2szD/cyo
@@ -50,4 +49,3 @@ f3lMM8szKVgy6zjo5IcxQ20RPbm7GOVTA+J+gLr/oiYVUoH8KnUs9wE71YOgScXk
 yj9UiPMQPRTh2wNcCBgLX3GWPIWeiraQFnz95g9bDihZ8kKBf8E=
 =Ch7X
 -----END PGP PUBLIC KEY BLOCK-----
-</pre>
